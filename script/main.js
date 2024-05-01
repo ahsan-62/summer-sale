@@ -57,8 +57,8 @@ function product2(){
     createElement('K. Accessories 2')
 }
 function product3(){
-    const product2Price= productPrice('price2');
-    createElement('K. Accessories 2')
+    const product3Price= productPrice('price3');
+    createElement('Home Cooker')
 }
 
 
@@ -110,6 +110,8 @@ function closeModal(){
     modal.close();
     window.location.reload();
 }
+
+
 
 
 
